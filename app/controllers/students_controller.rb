@@ -30,4 +30,4 @@ class StudentsController < ApplicationController
       @student = Student.find(params[:id])
     end
 
-end ### End of StudentsController Class
+end 
